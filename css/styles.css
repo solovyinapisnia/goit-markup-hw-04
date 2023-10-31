@@ -385,6 +385,9 @@ button {
   padding-top: 100px;
   padding-bottom: 100px;
 }
+.footer-slogan {
+  margin-right: 120px;
+}
 
 .footer .logo {
   display: inline-block;
@@ -404,7 +407,6 @@ button {
   width: 264px;
 }
 .footer-social {
-  margin-left: 120px;
 }
 
 .footer-social-title {
@@ -424,4 +426,5 @@ button {
 }
 .footer .container {
   display: flex;
+  align-items: baseline;
 }
