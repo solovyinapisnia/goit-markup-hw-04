@@ -420,8 +420,8 @@ button {
   display: flex;
   gap: 16px;
 }
-.footer-social-list-item:hover .elipse,
-.footer-social-list-item:focus .elipse {
+.footer-social-list-item .elipse:hover,
+.footer-social-list-item .elipse:focus {
   background-color: #31d0aa;
 }
 .footer .container {
